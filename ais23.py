@@ -143,7 +143,7 @@ import operator
 import geopy.distance
 import os
 
-
+# This will have to be set up to suit the hardware that is transmitting the messages or alternatively to read a file of msgs.
 UDP_IP = "192.168.0.15"   # as set up in Marine Traffic Dash 192.168.0.15
 UDP_PORT = 40005
 
