@@ -1,5 +1,5 @@
 # AIS-Decoding-with-Python
-Python code written on ubuntu to receive coded AIS messages that are decoded and displayed.
+Python code written on Ubuntu to receive coded AIS messages that are decoded and displayed.
 Each hour the code writes to a number of files to record what has happed during that hour.
 The "ais.txt" file is a history of the screen contents after each hour of listening to messages.
 The "master.txt" file keeps a record of the ship's MMSI number and associated ship's name for A class ships.
